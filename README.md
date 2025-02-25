@@ -52,8 +52,11 @@ Note: These metrics can be customized based on your actual performance evaluatio
 AgriGo provides data-driven solutions for farmers by recommending the best crops based on soil conditions, suggesting suitable fertilizers, and detecting crop diseases using AI. It helps optimize yield, improve productivity, and offers quick, accurate insights through a user-friendly web interface.
 
 ## Articles published / References
+##
 R. Sharma, P. Verma, and A. Singh, “AI-Driven Crop Disease Detection Using Deep Learning Models,” Journal of Agricultural Technology, vol. 15, no. 2, Jan. 2024.
+##
 M. K. Patel and S. Das, “Optimizing Crop Selection with Machine Learning-Based Soil Analysis,” Smart Farming Innovations, vol. 3, no. 1, Feb. 2024.
+##
 T. N. Rao and L. Iyer, “Fertilizer Recommendation Systems Using Data-Driven Approaches,” International Journal of Precision Agriculture, vol. 8, Mar. 2024.
 
 
